@@ -58,8 +58,8 @@ alert("Account Created Successfully")
 let prev = document.getElementById('previous');
     let next = document.getElementById('next');
 
-    let arr = ["images/img1.jpg", "images/img4.jpg", "images/img5.jpg",
-    "images/img6.jpg", "images/img7.jpg"];
+    let arr = ["/images/img1.jpg", "/images/img4.jpg", "/images/img5.jpg",
+    "/images/img6.jpg", "/images/img7.jpg"];
    
     let i = 0;
 
@@ -96,7 +96,7 @@ let prev = document.getElementById('previous');
 let prev2 = document.getElementById('previous2');
     let next2 = document.getElementById('next2');
 
-    let arr2 = ["images/img2-1.jpg", "images/img2-2.jpg", "images/img2-3.jpg"];
+    let arr2 = ["/images/img2-1.jpg", "/images/img2-2.jpg", "/images/img2-3.jpg"];
 
     let j=0;
     
