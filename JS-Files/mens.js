@@ -1,5 +1,5 @@
 let bag = [];
-fetch("API/men.json")
+fetch("/API/men.json")
 .then((res)=>res.json())
 .then((data)=>{
     bag=data;
